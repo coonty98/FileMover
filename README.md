@@ -5,6 +5,7 @@ The purpose of this program is to move files from one location into the current 
 A shade guide dictionary is included to convert shades to Vita.
 
 There are 3 options for source/destination:
+
     Milling folder
         Source - Y:\ManufacturingDir\<date>\NDX Standard FCZ
         Destination - Y:\ManufacturingDir\<date>\NDX Standard FCZ
